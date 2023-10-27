@@ -8,7 +8,7 @@ const lock = require("./LockDevice.json");
 
 
 //const json = require('./ExpectedResult.json');
-const json = require('./Platforms/Web_Max.json');
+const json = require('./Platforms/AppleTV_Max.json');
 const fs = require('fs'); 
 const csv = require('csv-parser');
 const JSONStream = require('JSONStream');
